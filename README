@@ -1,0 +1,8 @@
+
+'subcrawler' is a crawler for 'FreshReader'.
+If cron/crontabs is not working on your server, you can register this application to Task Manager on Windows, and refresh your FreshReader's RSS cache on your server, forcely.
+
+xmlRPC libraries are necessary for building this application.
+
+  xmlRPC: 
+    http://github.com/tsupo/xmlRPC/tree
